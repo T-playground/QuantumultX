@@ -9,7 +9,7 @@ var obj = JSON.parse($response.body);
 
       ],
       "overdueSecond" : "-1",
-      "deviceOverflow" : "1",
+      "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SPEED_VIP_KM2",
       "residualSecond" : "999999",
@@ -23,7 +23,7 @@ var obj = JSON.parse($response.body);
 
       ],
       "overdueSecond" : "-1",
-      "deviceOverflow" : "1",
+      "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "RELIABLE_VIP_KM4",
       "residualSecond" : "999999",
@@ -37,7 +37,7 @@ var obj = JSON.parse($response.body);
 
       ],
       "overdueSecond" : "-1",
-      "deviceOverflow" : "1",
+      "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "RELIABLE_VIP_KM1",
       "residualSecond" : "999999",
@@ -51,7 +51,7 @@ var obj = JSON.parse($response.body);
 
       ],
       "overdueSecond" : "-1",
-      "deviceOverflow" : "1",
+      "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SPEED_VIP_KM3",
       "residualSecond" : "999999",
@@ -65,7 +65,7 @@ var obj = JSON.parse($response.body);
 
       ],
       "overdueSecond" : "-1",
-      "deviceOverflow" : "1",
+      "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SPEED_VIP_KM4",
       "residualSecond" : "999999",
@@ -79,7 +79,7 @@ var obj = JSON.parse($response.body);
 
       ],
       "overdueSecond" : "-1",
-      "deviceOverflow" : "1",
+      "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "VIP",
       "residualSecond" : "999999",
@@ -93,7 +93,7 @@ var obj = JSON.parse($response.body);
 
       ],
       "overdueSecond" : "-1",
-      "deviceOverflow" : "1",
+      "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SVIP",
       "residualSecond" : "999999",
@@ -107,7 +107,7 @@ var obj = JSON.parse($response.body);
 
       ],
       "overdueSecond" : "-1",
-      "deviceOverflow" : "1",
+      "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SVIP_LIVECAMP",
       "residualSecond" : "999999",
@@ -121,7 +121,7 @@ var obj = JSON.parse($response.body);
 
       ],
       "overdueSecond" : "-1",
-      "deviceOverflow" : "1",
+      "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SPEED_VIP_KM1",
       "residualSecond" : "999999",
