@@ -2,13 +2,13 @@ var obj = JSON.parse($response.body);
  obj={
   "result" : {
     "SPEED_VIP_KM2" : {
-      "status" : "2",
+      "status" : "4",
       "beginTime" : "2022-02-05",
-      "endTime" : "2023-02-06",
+      "endTime" : "2023-02-01",
       "userBindDeviceList" : [
 
       ],
-      "overdueSecond" : "-1",
+      "overdueSecond" : "0",
       "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SPEED_VIP_KM2",
@@ -18,11 +18,11 @@ var obj = JSON.parse($response.body);
     "RELIABLE_VIP_KM4" : {
       "status" : "2",
       "beginTime" : "2022-02-05",
-      "endTime" : "2023-02-06",
+      "endTime" : "2023-02-02",
       "userBindDeviceList" : [
 
       ],
-      "overdueSecond" : "-1",
+      "overdueSecond" : "0",
       "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "RELIABLE_VIP_KM4",
@@ -30,13 +30,13 @@ var obj = JSON.parse($response.body);
       "description" : null
     },
     "RELIABLE_VIP_KM1" : {
-      "status" : "2",
+      "status" : "3",
       "beginTime" : "2022-02-05",
-      "endTime" : "2023-02-06",
+      "endTime" : "2023-02-03",
       "userBindDeviceList" : [
 
       ],
-      "overdueSecond" : "-1",
+      "overdueSecond" : "0",
       "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "RELIABLE_VIP_KM1",
@@ -44,13 +44,13 @@ var obj = JSON.parse($response.body);
       "description" : null
     },
     "SPEED_VIP_KM3" : {
-      "status" : "2",
+      "status" : "0",
       "beginTime" : "2022-02-05",
-      "endTime" : "2023-02-06",
+      "endTime" : "2023-02-04",
       "userBindDeviceList" : [
 
       ],
-      "overdueSecond" : "-1",
+      "overdueSecond" : "0",
       "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SPEED_VIP_KM3",
@@ -60,11 +60,11 @@ var obj = JSON.parse($response.body);
     "SPEED_VIP_KM4" : {
       "status" : "2",
       "beginTime" : "2022-02-05",
-      "endTime" : "2023-02-06",
+      "endTime" : "2023-02-05",
       "userBindDeviceList" : [
 
       ],
-      "overdueSecond" : "-1",
+      "overdueSecond" : "0",
       "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SPEED_VIP_KM4",
@@ -78,7 +78,7 @@ var obj = JSON.parse($response.body);
       "userBindDeviceList" : [
 
       ],
-      "overdueSecond" : "-1",
+      "overdueSecond" : "0",
       "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "VIP",
@@ -88,11 +88,11 @@ var obj = JSON.parse($response.body);
     "SVIP" : {
       "status" : "2",
       "beginTime" : "2022-02-05",
-      "endTime" : "2023-02-06",
+      "endTime" : "2023-02-07",
       "userBindDeviceList" : [
 
       ],
-      "overdueSecond" : "-1",
+      "overdueSecond" : "0",
       "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SVIP",
@@ -102,11 +102,11 @@ var obj = JSON.parse($response.body);
     "SVIP_LIVECAMP" : {
       "status" : "2",
       "beginTime" : "2022-02-05",
-      "endTime" : "2023-02-06",
+      "endTime" : "2023-02-08",
       "userBindDeviceList" : [
 
       ],
-      "overdueSecond" : "-1",
+      "overdueSecond" : "0",
       "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SVIP_LIVECAMP",
@@ -116,11 +116,11 @@ var obj = JSON.parse($response.body);
     "SPEED_VIP_KM1" : {
       "status" : "2",
       "beginTime" : "2022-02-05",
-      "endTime" : "2023-02-06",
+      "endTime" : "2023-02-09",
       "userBindDeviceList" : [
 
       ],
-      "overdueSecond" : "-1",
+      "overdueSecond" : "0",
       "deviceOverflow" : "0",
       "resourceId" : "",
       "rightsType" : "SPEED_VIP_KM1",
