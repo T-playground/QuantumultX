@@ -2,7 +2,7 @@ var obj = JSON.parse($response.body);
  obj={
   "result" : {
     "SPEED_VIP_KM2" : {
-      "status" : "4",
+      "status" : "5",
       "beginTime" : "2022-02-05",
       "endTime" : "2023-02-01",
       "userBindDeviceList" : [
@@ -58,7 +58,7 @@ var obj = JSON.parse($response.body);
       "description" : null
     },
     "SPEED_VIP_KM4" : {
-      "status" : "2",
+      "status" : "5",
       "beginTime" : "2022-02-05",
       "endTime" : "2023-02-05",
       "userBindDeviceList" : [
@@ -72,7 +72,7 @@ var obj = JSON.parse($response.body);
       "description" : null
     },
     "VIP" : {
-      "status" : "2",
+      "status" : "5",
       "beginTime" : "2022-02-05",
       "endTime" : "2023-02-06",
       "userBindDeviceList" : [
@@ -86,7 +86,7 @@ var obj = JSON.parse($response.body);
       "description" : null
     },
     "SVIP" : {
-      "status" : "2",
+      "status" : "5",
       "beginTime" : "2022-02-05",
       "endTime" : "2023-02-07",
       "userBindDeviceList" : [
@@ -100,7 +100,7 @@ var obj = JSON.parse($response.body);
       "description" : null
     },
     "SVIP_LIVECAMP" : {
-      "status" : "2",
+      "status" : "5",
       "beginTime" : "2022-02-05",
       "endTime" : "2023-02-08",
       "userBindDeviceList" : [
@@ -114,7 +114,7 @@ var obj = JSON.parse($response.body);
       "description" : null
     },
     "SPEED_VIP_KM1" : {
-      "status" : "2",
+      "status" : "5",
       "beginTime" : "2022-02-05",
       "endTime" : "2023-02-09",
       "userBindDeviceList" : [
