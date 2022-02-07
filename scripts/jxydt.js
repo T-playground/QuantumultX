@@ -34,7 +34,7 @@ var obj = JSON.parse($response.body);
       "beginTime" : "2022-02-05",
       "endTime" : "2023-02-03",
       "userBindDeviceList" : [
-
+        "005442f6a3e5a005f3099dbd7697b4ae08205fb7"
       ],
       "overdueSecond" : "0",
       "deviceOverflow" : "0",
@@ -58,11 +58,11 @@ var obj = JSON.parse($response.body);
       "description" : null
     },
     "SPEED_VIP_KM4" : {
-      "status" : "5",
+      "status" : "2",
       "beginTime" : "2022-02-05",
-      "endTime" : "2023-02-05",
+      "endTime" : "2023-02-02",
       "userBindDeviceList" : [
-
+        "005442f6a3e5a005f3099dbd7697b4ae08205fb7"
       ],
       "overdueSecond" : "0",
       "deviceOverflow" : "0",
